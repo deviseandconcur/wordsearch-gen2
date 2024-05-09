@@ -123,7 +123,7 @@ function WordSearchApp() {
 						{/* Word Input */}
 						<div className="mb-4">
 							<label className="block  mb-2">
-								Enter a theme to autogenerate🪄
+								Enter a theme to autogenerate 😎
 								<input
 									value={wordTheme}
 									onChange={(e) => setWordTheme(e.target.value)}

@@ -8,9 +8,9 @@ function Footer() {
 				<p>
 					Made with ❤️ by{' '}
 					<a className="link" href="https://focusotter.com">
-						Focus Otter
+						Jack Connor
 					</a>{' '}
-					🦦
+					🐧
 				</p>
 			</aside>
 			<nav className="flex gap-4 justify-center md:justify-end flex-1 p-2">

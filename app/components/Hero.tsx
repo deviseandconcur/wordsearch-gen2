@@ -27,7 +27,7 @@ function Hero() {
 									WordFinder AI
 								</h2>
 								<p className="mb-5">
-									An app for my beautiful wife, but with the help of NextJS and
+									Testing a new website using Gen2, but with the help of NextJS and
 									AWS Amplify, it&apos;s now available to all of you!
 								</p>
 								<Link href="/wordsearch" className="btn btn-success">

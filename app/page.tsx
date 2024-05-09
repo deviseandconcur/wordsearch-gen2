@@ -5,10 +5,10 @@ import { NavbarPublic } from './components/NavbarPublic'
 const cardDetails = [
 	{
 		id: 1,
-		title: 'NextJS',
+		title: 'Subscribe',
 		bgColor: `bg-primary`,
 		description:
-			'This application uses the NextJS app router and combines both client-side and server-side rendering! ',
+			'You can subscribe now for a small monthly fee and have access to all the amazing new features',
 	},
 	{
 		id: 2,
